@@ -3,6 +3,5 @@
 #
 ---
 exports :
-    header-dirs : [ immer ]
-    modules :
-        immer: .
+    header-dirs :
+        - immer
