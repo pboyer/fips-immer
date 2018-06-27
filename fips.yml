@@ -4,3 +4,5 @@
 ---
 exports :
     header-dirs : [ immer ]
+    modules :
+        immer: .
