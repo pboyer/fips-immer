@@ -1,3 +1,4 @@
 [submodule "immer"]
 	path = immer
-	url = https://github.com/arximboldi/immer
+	url = https://github.com/pboyer/immer
+	branch = tnovotny/tny_vs2017
